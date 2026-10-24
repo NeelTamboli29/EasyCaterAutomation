@@ -24,4 +24,4 @@ function parsePrice(text) {
     return m ? parseFloat(m[1]) : 0;
 }
 
-module.exports = { calculateBill, praseMoney, round2 };
+module.exports = { calculateBill, praseMoney, round2  };
