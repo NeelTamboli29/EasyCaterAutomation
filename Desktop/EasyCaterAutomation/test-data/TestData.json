@@ -1,0 +1,13 @@
+{
+    "search": {"keyword": "123", "noResultKeyword": "zzzzqqqq"}, 
+    "cart": { "itemsToAdd": 2, "quantityToSet": 2 },
+    "address": { "line1": "Avadh Upvan 1 And 2, Atladara", "landmark": "Near Atladara", "pincode": "390012" }, 
+    "gst": {
+        "foodRatePercent": 5,
+        "packagingRatePercent": 5,
+        "deliveryRatePercent": 18,
+        "platformFeeRatePercent": 18,
+        "tolerance": 1
+    }
+}
+
