@@ -9,11 +9,15 @@ function amountForLabel(blockText, labelRegex) {
 }
 
 /** SAFETY NET: aborts any request to a payment gateway. */
-async function blockPaymentGateway(context) {
+async function blockPaymentGateways(context) {
     const patterns = [
     /razorpay\.com/i, /paytm/i, /phonepe/i, /cashfree/i, /payu/i,
     /billdesk/i, /ccavenue/i, /stripe\.com/i, /juspay/i, /upi:\/\//i,
     ];
-    await context.route((url) => patterns.some((p) => p.test(url.toString()))), (route) => {
+    await context.route((url) => patterns.some((p) => p.test(url.toString())), (route) => {
         console.warn('[SAFETY] Blocked payment gateway request:',route.request().url());
+        return route.abort();
+    });
 }
+
+module.exports = { amountForLabel, blockPaymentGateways };
