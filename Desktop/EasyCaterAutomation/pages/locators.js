@@ -26,5 +26,18 @@ module.exports = {
         viewCart: '[data-testid="view-cart"], button:has-text("View Cart"), a:has-text("View Cart"), button:has-text("Checkout")',
         customizeModalAdd: '[role="dialog"] button:has-text("Add")',
         replaceCartConfirm: 'button:has-text("Replace"), button:has-text("Yes, start afresh"), button:has-text("Clear")',
+    },
+
+    cart: {
+        container: '[data-testid="cart"], [class*="cart" i]',
+        row: '[data-testid="cart-item"], [class*="cart" i] [class*="item" i]',
+        rowPlus: '[data-testid="qty-plus"], button:has-text("+")',
+        rowMinus: '[data-testid="qty-minus"], button:has-text("-"), button:has-text("−")',
+        rowQty: '[data-testid="qty"], [class*="qty" i], [class*="quantity" i]',
+        couponInput: '[data-testid="coupon-input"], input[placeholder*="coupon" i], input[placeholder*="promo" i]',
+        applyCoupon: 'button:has-text("Apply")',
+        billSummary: '[data-testid="bill-summary"], [class*="bill" i], [class*="summary" i]',
+        proceedToCheckout: '[data-testid="checkout-btn"], button:has-text("Checkout"), button:has-text("Proceed"), button:has-text("Place Order")',
+        emptyMessage: 'text=/cart is empty|no items/i',
     }
 }
