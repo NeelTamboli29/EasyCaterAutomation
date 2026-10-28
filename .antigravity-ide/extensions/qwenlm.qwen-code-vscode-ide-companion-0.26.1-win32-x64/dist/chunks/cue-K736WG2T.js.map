@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/cue.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,k4hBAA6zlB,CAAC;AAEp2lB,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

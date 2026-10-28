@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/engine-oniguruma/dist/wasm-inlined.mjs"],
+  "mappings": ";;;AAAA,IAAI,SAAS,WAAW,KAAK,KAAK,sk/lBAAsk/lB,GAAG,OAAK,EAAE,WAAW,CAAC,CAAC;AAE/n/lB,IAAM,aAAa;AACnB,IAAM,kBAAkB,OAAO,SAAS;AACtC,SAAO,YAAY,YAAY,YAAY,IAAI,EAAE,KAAK,CAAC,SAAS,KAAK,SAAS,OAAO;AACvF;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/imba.mjs"],
+  "mappings": ";;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,ymoDAA24xD,CAAC;AAEl7xD,IAAO,eAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

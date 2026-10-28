@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../web-shell/dist/wasm-DQxwEHae.js"],
+  "mappings": ";;;AAAA,IAAI,IAAI,WAAW,KAAK,KAAK,sk/lBAAsk/lB,GAAG,CAAC,MAAM,EAAE,WAAW,CAAC,CAAC;AAC5n/lB,IAAM,IAAI;AAAV,IAAa,IAAI,OAAO,MAAM,YAAY,YAAY,GAAG,CAAC,EAAE,KAAK,CAAC,MAAM,EAAE,SAAS,OAAO;",
+  "names": []
+}

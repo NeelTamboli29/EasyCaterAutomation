@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/less.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,2/nGAAi06G,CAAC;AAEx26G,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

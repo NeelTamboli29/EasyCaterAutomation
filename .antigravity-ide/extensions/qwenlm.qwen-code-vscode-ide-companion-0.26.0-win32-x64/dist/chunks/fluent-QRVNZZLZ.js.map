@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/fluent.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,s+GAAg3H,CAAC;AAEv5H,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

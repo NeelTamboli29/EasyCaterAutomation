@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/wolfram.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,mvsQAAwr1Q,CAAC;AAE/t1Q,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/asm.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,o1vCAA831C,CAAC;AAEr61C,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

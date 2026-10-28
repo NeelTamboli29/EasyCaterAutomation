@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/apex.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,4p7CAAmnlD,CAAC;AAE1plD,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

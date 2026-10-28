@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/astro.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAMA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,svuBAAkqxB,CAAC;AAEzsxB,IAAO,gBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

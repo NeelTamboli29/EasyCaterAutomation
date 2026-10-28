@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/everforest-light.mjs"],
+  "mappings": ";;;AACA,IAAO,2BAAQ,OAAO,OAAO,KAAK,MAAM,07oDAA0jyD,CAAC;",
+  "names": []
+}

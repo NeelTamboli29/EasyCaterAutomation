@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/soy.mjs"],
+  "mappings": ";;;;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,qoNAAkoP,CAAC;AAEzqP,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

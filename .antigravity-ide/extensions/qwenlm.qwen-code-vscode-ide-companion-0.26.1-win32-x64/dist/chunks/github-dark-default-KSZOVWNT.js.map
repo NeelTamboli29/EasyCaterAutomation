@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/github-dark-default.mjs"],
+  "mappings": ";;;AACA,IAAO,8BAAQ,OAAO,OAAO,KAAK,MAAM,yicAA2of,CAAC;",
+  "names": []
+}

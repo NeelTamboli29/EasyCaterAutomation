@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/markdown.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,2lvDAAsm6D,CAAC;AAE7o6D,IAAO,mBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

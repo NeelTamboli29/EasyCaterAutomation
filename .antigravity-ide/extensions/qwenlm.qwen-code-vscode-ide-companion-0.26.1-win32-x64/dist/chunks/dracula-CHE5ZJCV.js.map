@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/dracula.mjs"],
+  "mappings": ";;;AACA,IAAO,kBAAQ,OAAO,OAAO,KAAK,MAAM,ghpBAAkhtB,CAAC;",
+  "names": []
+}

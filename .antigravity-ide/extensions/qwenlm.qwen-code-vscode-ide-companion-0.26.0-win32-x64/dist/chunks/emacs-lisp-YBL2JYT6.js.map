@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/emacs-lisp.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,owjxBAAyqoxB,CAAC;AAEhtoxB,IAAO,qBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

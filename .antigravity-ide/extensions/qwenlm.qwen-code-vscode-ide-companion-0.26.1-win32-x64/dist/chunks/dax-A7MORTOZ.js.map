@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/dax.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,41KAAgrL,CAAC;AAEvtL,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/purescript.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+rhBAA4hkB,CAAC;AAEnkkB,IAAO,qBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

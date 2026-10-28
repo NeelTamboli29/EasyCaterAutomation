@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/jsonl.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+9FAAs1G,CAAC;AAE73G,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/qml.mjs"],
+  "mappings": ";;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,msKAA24L,CAAC;AAEl7L,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

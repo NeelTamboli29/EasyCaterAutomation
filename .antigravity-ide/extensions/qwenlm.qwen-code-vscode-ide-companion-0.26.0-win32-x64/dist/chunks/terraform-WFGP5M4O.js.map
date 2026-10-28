@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/terraform.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+/ZAAk9c,CAAC;AAEz/c,IAAO,oBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

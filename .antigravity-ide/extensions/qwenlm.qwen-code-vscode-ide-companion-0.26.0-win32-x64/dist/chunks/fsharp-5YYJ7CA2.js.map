@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/fsharp.mjs"],
+  "mappings": ";;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,8nyBAAsg4B,CAAC;AAE7i4B,IAAO,iBAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

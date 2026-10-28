@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/mermaid/dist/chunks/mermaid.core/swimlanesDiagram-VK2B7HYN.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAyBA,IAAI,YAA4B,uBAAO,CAAC,YAAY,GAAG,eAAe,OAAO,CAAC;AAAA;AAAA,cAEhE,QAAQ,aAAa;AAAA;AAAA;AAAA;AAAA;AAAA,GAKhC,WAAW;AACd,IAAI,kBAAkB;AAGtB,IAAI,UAAU,kBAAkB,EAAE,eAAe,YAAY,QAAQ,gBAAgB,CAAC;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/wasm.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,u/eAAmhiB,CAAC;AAE1jiB,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

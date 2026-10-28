@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/haskell.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,ky0CAAmn8C,CAAC;AAE1p8C,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

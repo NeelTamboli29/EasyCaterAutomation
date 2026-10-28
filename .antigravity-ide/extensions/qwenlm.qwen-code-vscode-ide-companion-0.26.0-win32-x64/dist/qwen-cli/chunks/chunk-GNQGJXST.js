@@ -1,0 +1,8 @@
+// Force strict mode and setup for ESM
+"use strict";
+import{scanForSecrets}from"./chunk-ERMPIC3B.js";import{TEAM_AUTO_MEMORY_DIRNAME,isTeamAutoMemPath}from"./chunk-37KFLBKZ.js";import{createDebugLogger}from"./chunk-JAUJI56S.js";import{QWEN_DIR,isSubpath}from"./chunk-OKN3Z5C5.js";import{init_esbuild_shims}from"./chunk-VKDAXTCZ.js";import{__name}from"./chunk-KBWJGX7I.js";init_esbuild_shims();import path from"node:path";var debugLogger=createDebugLogger("TEAM_MEMORY_SECRET_GUARD");function checkTeamMemorySecrets(filePath,content,projectRoot){if(!isTeamAutoMemPath(filePath,projectRoot)){return null}return checkTeamMemoryContent(content)}__name(checkTeamMemorySecrets,"checkTeamMemorySecrets");function checkWorkspaceTeamMemorySecrets(filePath,content,workspaceRoot){if(!isSubpath(path.join(workspaceRoot,QWEN_DIR,TEAM_AUTO_MEMORY_DIRNAME),path.resolve(filePath)))return null;return checkTeamMemoryContent(content)}__name(checkWorkspaceTeamMemorySecrets,"checkWorkspaceTeamMemorySecrets");function checkTeamMemoryContent(content){const matches=scanForSecrets(content);if(matches.length===0){return null}debugLogger.debug(`Blocked team-memory write; matched rules: ${matches.map(m=>m.ruleId).join(", ")}`);const labels=matches.map(m=>m.label).join(", ");return`Content contains potential secrets (${labels}) and cannot be written to team memory. Team memory is shared with all repository collaborators. Remove the sensitive content and try again.`}__name(checkTeamMemoryContent,"checkTeamMemoryContent");export{checkTeamMemorySecrets,checkWorkspaceTeamMemorySecrets};
+/**
+ * @license
+ * Copyright 2025 Google LLC
+ * SPDX-License-Identifier: Apache-2.0
+ */

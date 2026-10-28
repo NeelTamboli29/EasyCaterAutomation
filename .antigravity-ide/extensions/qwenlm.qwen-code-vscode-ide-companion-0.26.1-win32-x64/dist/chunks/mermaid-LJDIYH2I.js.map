@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/mermaid.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,qugCAA+ioC,CAAC;AAEtloC,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

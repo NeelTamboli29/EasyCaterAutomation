@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/rose-pine-moon.mjs"],
+  "mappings": ";;;AACA,IAAO,yBAAQ,OAAO,OAAO,KAAK,MAAM,itqBAAw5uB,CAAC;",
+  "names": []
+}

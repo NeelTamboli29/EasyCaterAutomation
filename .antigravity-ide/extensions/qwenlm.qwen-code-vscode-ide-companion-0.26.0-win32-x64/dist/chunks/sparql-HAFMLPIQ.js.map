@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/sparql.mjs"],
+  "mappings": ";;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+3CAAu9C,CAAC;AAE9/C,IAAO,iBAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

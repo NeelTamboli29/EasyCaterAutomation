@@ -1,0 +1,3 @@
+// Force strict mode and setup for ESM
+"use strict";
+import{OmniUploadConfigError,getEffectiveOmniUploadConfig,normalizeDedicatedOmniUploadConfig,requireEffectiveOmniUploadConfig}from"./chunk-QCLNVURT.js";import"./chunk-ZJPYZIOW.js";import"./chunk-QJ2YW6KU.js";import"./chunk-OQH4CWDG.js";import"./chunk-HEDN54OB.js";import"./chunk-4ZBZL23U.js";import"./chunk-ZZZAYAJW.js";import"./chunk-JAUJI56S.js";import"./chunk-I4H7NUVP.js";import"./chunk-EPODBRBP.js";import"./chunk-OKN3Z5C5.js";import"./chunk-XYB7GC5U.js";import"./chunk-2UOMCYQG.js";import"./chunk-VKDAXTCZ.js";import"./chunk-KBWJGX7I.js";export{OmniUploadConfigError,getEffectiveOmniUploadConfig,normalizeDedicatedOmniUploadConfig,requireEffectiveOmniUploadConfig};

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/narrat.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,8iHAAk8H,CAAC;AAEz+H,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

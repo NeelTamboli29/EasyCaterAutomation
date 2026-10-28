@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/vue-html.mjs"],
+  "mappings": ";;;;;;;;;;;;;;AAGA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+sQAA+rS,CAAC;AAEtuS,IAAO,mBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

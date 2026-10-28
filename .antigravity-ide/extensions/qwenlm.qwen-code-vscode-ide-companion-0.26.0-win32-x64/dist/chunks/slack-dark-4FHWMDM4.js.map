@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/slack-dark.mjs"],
+  "mappings": ";;;AACA,IAAO,qBAAQ,OAAO,OAAO,KAAK,MAAM,m2RAAi3T,CAAC;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/tokyo-night.mjs"],
+  "mappings": ";;;AACA,IAAO,sBAAQ,OAAO,OAAO,KAAK,MAAM,igjCAA68oC,CAAC;",
+  "names": []
+}

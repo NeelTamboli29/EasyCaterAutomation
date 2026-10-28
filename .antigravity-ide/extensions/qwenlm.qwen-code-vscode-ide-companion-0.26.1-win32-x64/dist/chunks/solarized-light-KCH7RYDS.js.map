@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/solarized-light.mjs"],
+  "mappings": ";;;AACA,IAAO,0BAAQ,OAAO,OAAO,KAAK,MAAM,sxMAAskO,CAAC;",
+  "names": []
+}

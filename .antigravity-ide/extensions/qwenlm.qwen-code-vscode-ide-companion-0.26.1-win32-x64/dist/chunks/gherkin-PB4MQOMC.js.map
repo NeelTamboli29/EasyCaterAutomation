@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/gherkin.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,65lBAAukU,CAAC;AAE9mU,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/night-owl.mjs"],
+  "mappings": ";;;AACA,IAAO,oBAAQ,OAAO,OAAO,KAAK,MAAM,ur4BAAy4+B,CAAC;",
+  "names": []
+}

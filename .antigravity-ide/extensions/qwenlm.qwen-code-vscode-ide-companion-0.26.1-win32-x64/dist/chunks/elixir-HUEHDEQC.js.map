@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/elixir.mjs"],
+  "mappings": ";;;;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,0tjBAAqlnB,CAAC;AAE5nnB,IAAO,iBAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

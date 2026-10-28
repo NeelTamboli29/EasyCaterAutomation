@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/rst.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AASA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,yoTAAy2V,CAAC;AAEh5V,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/objective-cpp.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,g72KAAokvL,CAAC;AAE3mvL,IAAO,wBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

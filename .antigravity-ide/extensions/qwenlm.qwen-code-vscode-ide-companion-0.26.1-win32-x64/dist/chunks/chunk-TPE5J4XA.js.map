@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/gdscript.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,8pkBAA8joB,CAAC;AAErmoB,IAAO,mBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

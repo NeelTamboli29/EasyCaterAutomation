@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/poimandres.mjs"],
+  "mappings": ";;;AACA,IAAO,qBAAQ,OAAO,OAAO,KAAK,MAAM,4phCAA8qnC,CAAC;",
+  "names": []
+}

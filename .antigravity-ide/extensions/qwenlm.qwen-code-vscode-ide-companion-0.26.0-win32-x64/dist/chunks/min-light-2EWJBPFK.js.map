@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/min-light.mjs"],
+  "mappings": ";;;AACA,IAAO,oBAAQ,OAAO,OAAO,KAAK,MAAM,+vNAAy/O,CAAC;",
+  "names": []
+}

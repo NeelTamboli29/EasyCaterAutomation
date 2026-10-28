@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/razor.mjs"],
+  "mappings": ";;;;;;;;;;;AAGA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,qgyBAAw73B,CAAC;AAE/93B,IAAO,gBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

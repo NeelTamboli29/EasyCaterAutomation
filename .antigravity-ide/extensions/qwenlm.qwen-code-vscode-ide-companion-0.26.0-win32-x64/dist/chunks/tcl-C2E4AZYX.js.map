@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/tcl.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,y1JAAs2K,CAAC;AAE74K,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

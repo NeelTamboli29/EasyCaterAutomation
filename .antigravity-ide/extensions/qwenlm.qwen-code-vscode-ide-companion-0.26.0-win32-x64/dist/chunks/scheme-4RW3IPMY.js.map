@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/scheme.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,y9QAAkoS,CAAC;AAEzqS,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

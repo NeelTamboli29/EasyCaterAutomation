@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/red.mjs"],
+  "mappings": ";;;AACA,IAAO,cAAQ,OAAO,OAAO,KAAK,MAAM,4jMAA40N,CAAC;",
+  "names": []
+}

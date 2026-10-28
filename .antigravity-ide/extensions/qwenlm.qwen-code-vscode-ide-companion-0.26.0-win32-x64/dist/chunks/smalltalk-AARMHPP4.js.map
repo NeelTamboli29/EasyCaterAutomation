@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/smalltalk.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,4iIAA49I,CAAC;AAEngJ,IAAO,oBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

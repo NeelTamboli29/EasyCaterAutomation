@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/kusto.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,yloBAAu1qB,CAAC;AAE93qB,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

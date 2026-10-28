@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/nim.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;AAQA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+ttBAAuizB,CAAC;AAE9kzB,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

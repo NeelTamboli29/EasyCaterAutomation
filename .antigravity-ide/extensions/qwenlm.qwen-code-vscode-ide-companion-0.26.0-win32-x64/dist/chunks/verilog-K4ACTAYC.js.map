@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/verilog.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,ivLAAgvM,CAAC;AAEvxM,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

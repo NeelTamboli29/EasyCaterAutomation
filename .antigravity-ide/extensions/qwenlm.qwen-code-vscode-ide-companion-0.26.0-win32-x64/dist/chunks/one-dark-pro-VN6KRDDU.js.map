@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/one-dark-pro.mjs"],
+  "mappings": ";;;AACA,IAAO,uBAAQ,OAAO,OAAO,KAAK,MAAM,o5hCAA8xoC,CAAC;",
+  "names": []
+}

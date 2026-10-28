@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/yaml.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,y+UAA0hX,CAAC;AAEjkX,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

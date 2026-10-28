@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/clojure.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,q2NAA+kP,CAAC;AAEtnP,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

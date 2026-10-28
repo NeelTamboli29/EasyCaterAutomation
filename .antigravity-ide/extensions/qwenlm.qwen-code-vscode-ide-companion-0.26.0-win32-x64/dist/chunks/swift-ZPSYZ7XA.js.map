@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/swift.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,izxFAAoz/F,CAAC;AAE31/F,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

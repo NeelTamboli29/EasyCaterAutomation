@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/prolog.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+mWAA+lX,CAAC;AAEtoX,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/codeowners.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,meAA2iB,CAAC;AAEllB,IAAO,qBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

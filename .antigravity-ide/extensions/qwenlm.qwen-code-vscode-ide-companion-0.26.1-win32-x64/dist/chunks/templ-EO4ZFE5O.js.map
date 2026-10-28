@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/templ.mjs"],
+  "mappings": ";;;;;;;;;;;;AAIA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,2uuBAA6qyB,CAAC;AAEptyB,IAAO,gBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

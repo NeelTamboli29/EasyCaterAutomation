@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/go.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,wnmDAAqnwD,CAAC;AAE5pwD,IAAO,aAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

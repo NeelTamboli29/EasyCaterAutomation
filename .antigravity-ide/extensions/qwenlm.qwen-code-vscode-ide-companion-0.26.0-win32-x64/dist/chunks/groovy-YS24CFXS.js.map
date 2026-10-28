@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/groovy.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,6nmBAA+6qB,CAAC;AAEt9qB,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

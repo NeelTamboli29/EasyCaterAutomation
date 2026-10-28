@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/ballerina.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,6n4DAA84jE,CAAC;AAEr7jE,IAAO,oBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

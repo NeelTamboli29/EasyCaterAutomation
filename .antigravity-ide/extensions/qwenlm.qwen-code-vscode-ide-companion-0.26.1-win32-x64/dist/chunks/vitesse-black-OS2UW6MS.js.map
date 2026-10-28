@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/vitesse-black.mjs"],
+  "mappings": ";;;AACA,IAAO,wBAAQ,OAAO,OAAO,KAAK,MAAM,mzaAAq0d,CAAC;",
+  "names": []
+}

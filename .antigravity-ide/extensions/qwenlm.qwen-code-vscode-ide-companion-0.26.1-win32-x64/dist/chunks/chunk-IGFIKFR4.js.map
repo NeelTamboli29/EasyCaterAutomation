@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/php.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;AAOA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,qx9GAA6orH,CAAC;AAEprrH,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/ocaml.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,ywgEAAo8pE,CAAC;AAE3+pE,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

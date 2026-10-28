@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/min-dark.mjs"],
+  "mappings": ";;;AACA,IAAO,mBAAQ,OAAO,OAAO,KAAK,MAAM,ylMAAmwN,CAAC;",
+  "names": []
+}

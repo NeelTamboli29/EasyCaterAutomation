@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/wikitext.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,gvuDAAog7D,CAAC;AAE3i7D,IAAO,mBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

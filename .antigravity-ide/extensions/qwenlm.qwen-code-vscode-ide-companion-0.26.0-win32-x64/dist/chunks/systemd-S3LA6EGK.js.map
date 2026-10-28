@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/systemd.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,mwPAA45Q,CAAC;AAEn8Q,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

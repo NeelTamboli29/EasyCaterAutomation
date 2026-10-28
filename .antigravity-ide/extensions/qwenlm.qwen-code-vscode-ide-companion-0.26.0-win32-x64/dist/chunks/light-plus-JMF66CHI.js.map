@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/light-plus.mjs"],
+  "mappings": ";;;AACA,IAAO,qBAAQ,OAAO,OAAO,KAAK,MAAM,2pTAAmsV,CAAC;",
+  "names": []
+}

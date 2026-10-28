@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/material-theme-lighter.mjs"],
+  "mappings": ";;;AACA,IAAO,iCAAQ,OAAO,OAAO,KAAK,MAAM,gpkBAAs1nB,CAAC;",
+  "names": []
+}

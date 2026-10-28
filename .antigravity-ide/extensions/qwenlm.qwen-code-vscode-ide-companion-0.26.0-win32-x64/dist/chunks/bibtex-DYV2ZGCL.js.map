@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/bibtex.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,m5JAAy7K,CAAC;AAEh+K,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

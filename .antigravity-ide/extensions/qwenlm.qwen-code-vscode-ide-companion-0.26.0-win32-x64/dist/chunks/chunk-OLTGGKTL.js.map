@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/lua.mjs"],
+  "mappings": ";;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,kqeAA8xhB,CAAC;AAEr0hB,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

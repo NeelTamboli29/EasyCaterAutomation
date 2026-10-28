@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/catppuccin-frappe.mjs"],
+  "mappings": ";;;AACA,IAAO,4BAAQ,OAAO,OAAO,KAAK,MAAM,w/4CAAyhiD,CAAC;",
+  "names": []
+}

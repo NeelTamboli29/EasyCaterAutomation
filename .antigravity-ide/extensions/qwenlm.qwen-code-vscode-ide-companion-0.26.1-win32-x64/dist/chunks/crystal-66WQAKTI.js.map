@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/crystal.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;AAOA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,iqhCAAw+nC,CAAC;AAE/goC,IAAO,kBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

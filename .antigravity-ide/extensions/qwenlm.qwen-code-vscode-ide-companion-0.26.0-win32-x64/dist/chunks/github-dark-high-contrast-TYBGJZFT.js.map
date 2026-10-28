@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/github-dark-high-contrast.mjs"],
+  "mappings": ";;;AACA,IAAO,oCAAQ,OAAO,OAAO,KAAK,MAAM,yscAA2zf,CAAC;",
+  "names": []
+}

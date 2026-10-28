@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/fennel.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,2pJAA8iK,CAAC;AAErlK,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

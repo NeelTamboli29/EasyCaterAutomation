@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/es-tag-css.mjs", "../../../../node_modules/@shikijs/langs/dist/es-tag-glsl.mjs", "../../../../node_modules/@shikijs/langs/dist/es-tag-html.mjs", "../../../../node_modules/@shikijs/langs/dist/es-tag-sql.mjs", "../../../../node_modules/@shikijs/langs/dist/es-tag-xml.mjs", "../../../../node_modules/@shikijs/langs/dist/ts-tags.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;AAIA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,wxDAA09D,CAAC;AAEjgE,IAAO,qBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;;;ACPA,IAAMA,QAAO,OAAO,OAAO,KAAK,MAAM,gqDAAk2D,CAAC;AAEz4D,IAAO,sBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACHA;AACA;;;ACPA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,69DAAisE,CAAC;AAExuE,IAAO,sBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACHA;AACA;;;ACRA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,qkDAA2vD,CAAC;AAElyD,IAAO,qBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACHA;AACA;;;ACPA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,spCAA0xC,CAAC;AAEj0C,IAAO,qBAAQ;AAAA,EACf,GAAG;AAAA,EACHA;AACA;;;ACAA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,+OAAmR,CAAC;AAE1T,IAAO,kBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACHA;AACA;",
+  "names": ["lang", "lang", "lang", "lang", "lang"]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/berry.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,g1EAAsmF,CAAC;AAE7oF,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/pug.mjs"],
+  "mappings": ";;;;;;;;;;;;AAIA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,k3cAAwpgB,CAAC;AAE/rgB,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

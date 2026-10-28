@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/zenscript.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,2uIAAotJ,CAAC;AAE3vJ,IAAO,oBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

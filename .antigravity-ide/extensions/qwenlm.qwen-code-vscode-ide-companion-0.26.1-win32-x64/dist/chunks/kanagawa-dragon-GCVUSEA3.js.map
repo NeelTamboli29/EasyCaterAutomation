@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/kanagawa-dragon.mjs"],
+  "mappings": ";;;AACA,IAAO,0BAAQ,OAAO,OAAO,KAAK,MAAM,6qhBAA+vkB,CAAC;",
+  "names": []
+}

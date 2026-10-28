@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/julia.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;AAMA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,6s5CAAo08B,CAAC;AAE328B,IAAO,gBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

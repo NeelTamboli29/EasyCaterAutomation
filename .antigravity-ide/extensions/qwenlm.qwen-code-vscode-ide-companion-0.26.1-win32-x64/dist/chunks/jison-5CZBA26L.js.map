@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/jison.mjs"],
+  "mappings": ";;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,s6SAAklV,CAAC;AAEznV,IAAO,gBAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

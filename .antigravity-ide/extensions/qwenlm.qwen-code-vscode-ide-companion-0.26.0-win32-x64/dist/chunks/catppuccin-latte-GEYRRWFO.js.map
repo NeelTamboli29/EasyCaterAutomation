@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/catppuccin-latte.mjs"],
+  "mappings": ";;;AACA,IAAO,2BAAQ,OAAO,OAAO,KAAK,MAAM,o/4CAAwhiD,CAAC;",
+  "names": []
+}

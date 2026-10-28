@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/hlsl.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,q3OAAmyP,CAAC;AAE10P,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

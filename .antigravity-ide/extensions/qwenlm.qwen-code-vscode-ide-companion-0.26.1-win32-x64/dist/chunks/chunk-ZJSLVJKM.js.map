@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/fortran-free-form.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,g1/FAAizzG,CAAC;AAEx1zG,IAAO,4BAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/viml.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,09oBAA4vqB,CAAC;AAEnyqB,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

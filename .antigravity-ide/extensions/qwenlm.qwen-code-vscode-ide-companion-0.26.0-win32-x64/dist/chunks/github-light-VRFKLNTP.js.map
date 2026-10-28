@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/github-light.mjs"],
+  "mappings": ";;;AACA,IAAO,uBAAQ,OAAO,OAAO,KAAK,MAAM,s3VAAwpY,CAAC;",
+  "names": []
+}

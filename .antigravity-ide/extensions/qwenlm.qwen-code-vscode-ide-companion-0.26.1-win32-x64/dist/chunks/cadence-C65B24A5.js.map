@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/cadence.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,utVAAw9X,CAAC;AAE//X,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

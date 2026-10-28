@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/bicep.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,syIAAktJ,CAAC;AAEzvJ,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

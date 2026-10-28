@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/jsonc.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,ikGAAw7G,CAAC;AAE/9G,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

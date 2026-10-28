@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/dream-maker.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+yUAAs6W,CAAC;AAE78W,IAAO,sBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/shaderlab.mjs"],
+  "mappings": ";;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,whMAAy5M,CAAC;AAEh8M,IAAO,oBAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

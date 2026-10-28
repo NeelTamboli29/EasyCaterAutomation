@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/riscv.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,29OAA4hQ,CAAC;AAEnkQ,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

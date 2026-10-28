@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/ada.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,k1+CAAyrrD,CAAC;AAEhurD,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

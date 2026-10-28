@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/mdx.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,wgyIAA08lJ,CAAC;AAEj/lJ,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/hack.mjs"],
+  "mappings": ";;;;;;;;;;;AAGA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,q/kFAAimuF,CAAC;AAExouF,IAAO,eAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

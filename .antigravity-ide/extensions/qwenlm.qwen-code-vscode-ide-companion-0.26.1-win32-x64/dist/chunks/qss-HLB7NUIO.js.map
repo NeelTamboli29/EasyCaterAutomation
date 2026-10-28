@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/qss.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,0kPAAgiQ,CAAC;AAEvkQ,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/markdown-vue.mjs", "../../../../node_modules/@shikijs/langs/dist/vue-directives.mjs", "../../../../node_modules/@shikijs/langs/dist/vue-interpolations.mjs", "../../../../node_modules/@shikijs/langs/dist/vue-sfc-style-variable-injection.mjs", "../../../../node_modules/@shikijs/langs/dist/vue.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,osBAAgxB,CAAC;AAEvzB,IAAO,uBAAQ;AAAA,EACf;AACA;;;ACJA,IAAMA,QAAO,OAAO,OAAO,KAAK,MAAM,gXAA8Y,CAAC;AAErb,IAAO,yBAAQ;AAAA,EACfA;AACA;;;ACJA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,+VAA6X,CAAC;AAEpa,IAAO,6BAAQ;AAAA,EACfA;AACA;;;ACFA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,m0BAAg6B,CAAC;AAEv8B,IAAO,2CAAQ;AAAA,EACf,GAAG;AAAA,EACHA;AACA;;;ACIA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,2ykBAAqkpB,CAAC;AAE5mpB,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACHA;AACA;",
+  "names": ["lang", "lang", "lang", "lang"]
+}

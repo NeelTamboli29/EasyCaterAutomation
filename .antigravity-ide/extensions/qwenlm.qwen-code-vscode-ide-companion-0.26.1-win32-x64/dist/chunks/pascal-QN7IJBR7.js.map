@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/pascal.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,khIAAwzI,CAAC;AAE/1I,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

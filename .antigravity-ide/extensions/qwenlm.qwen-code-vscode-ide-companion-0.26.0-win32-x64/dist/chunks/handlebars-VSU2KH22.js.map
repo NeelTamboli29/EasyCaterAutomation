@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/handlebars.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;AAKA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,ywXAAyta,CAAC;AAEhwa,IAAO,qBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

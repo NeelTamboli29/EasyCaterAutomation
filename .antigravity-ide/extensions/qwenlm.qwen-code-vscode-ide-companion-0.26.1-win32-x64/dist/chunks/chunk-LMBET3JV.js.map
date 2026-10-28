@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/graphql.mjs"],
+  "mappings": ";;;;;;;;;;;;;;AAKA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,kjjBAA2mnB,CAAC;AAElpnB,IAAO,kBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

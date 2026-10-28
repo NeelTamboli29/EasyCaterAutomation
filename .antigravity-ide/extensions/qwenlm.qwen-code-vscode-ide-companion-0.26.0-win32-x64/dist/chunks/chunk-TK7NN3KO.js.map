@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/typescript.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,gk4MAAu7qN,CAAC;AAE99qN,IAAO,qBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

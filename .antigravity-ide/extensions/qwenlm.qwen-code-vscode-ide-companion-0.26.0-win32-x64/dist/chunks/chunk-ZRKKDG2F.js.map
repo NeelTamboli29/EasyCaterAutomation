@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-2Q5K7J3B.mjs"],
+  "mappings": ";;;;;AAKA,IAAI,kBAAkB,MAAM;AAAA;AAAA;AAAA;AAAA,EAI1B,YAAY,MAAM;AAChB,SAAK,OAAO;AACZ,SAAK,UAAU,KAAK,KAAK;AAAA,EAC3B;AAAA,EACA,OAAO;AACL,WAAO,MAAM,iBAAiB;AAAA,EAChC;AAAA,EACA,QAAQ;AACN,SAAK,UAAU,KAAK,KAAK;AAAA,EAC3B;AACF;",
+  "names": []
+}

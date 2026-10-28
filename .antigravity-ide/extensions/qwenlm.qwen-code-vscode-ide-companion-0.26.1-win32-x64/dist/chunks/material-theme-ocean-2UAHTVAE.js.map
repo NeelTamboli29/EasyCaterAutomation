@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/material-theme-ocean.mjs"],
+  "mappings": ";;;AACA,IAAO,+BAAQ,OAAO,OAAO,KAAK,MAAM,2okBAAi1nB,CAAC;",
+  "names": []
+}

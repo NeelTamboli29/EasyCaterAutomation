@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/marko.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;AAKA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,8plBAAw8pB,CAAC;AAE/+pB,IAAO,gBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

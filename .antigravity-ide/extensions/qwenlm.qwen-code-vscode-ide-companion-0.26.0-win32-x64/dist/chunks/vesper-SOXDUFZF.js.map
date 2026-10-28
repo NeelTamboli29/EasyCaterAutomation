@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/vesper.mjs"],
+  "mappings": ";;;AACA,IAAO,iBAAQ,OAAO,OAAO,KAAK,MAAM,6zYAAq2a,CAAC;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/material-theme-palenight.mjs"],
+  "mappings": ";;;AACA,IAAO,mCAAQ,OAAO,OAAO,KAAK,MAAM,ipkBAAu1nB,CAAC;",
+  "names": []
+}

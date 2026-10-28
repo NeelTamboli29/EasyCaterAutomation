@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/mipsasm.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,2xGAAqgH,CAAC;AAE5iH,IAAO,kBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

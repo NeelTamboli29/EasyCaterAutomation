@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/javascript.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+0iMAAgo2M,CAAC;AAEvq2M,IAAO,qBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

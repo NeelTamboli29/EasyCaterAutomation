@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/angular-expression.mjs", "../../../../node_modules/@shikijs/langs/dist/angular-let-declaration.mjs", "../../../../node_modules/@shikijs/langs/dist/angular-template.mjs", "../../../../node_modules/@shikijs/langs/dist/angular-template-blocks.mjs", "../../../../node_modules/@shikijs/langs/dist/angular-html.mjs"],
+  "mappings": ";;;;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,g0aAAwud,CAAC;AAE/wd,IAAO,6BAAQ;AAAA,EACf;AACA;;;ACFA,IAAMA,QAAO,OAAO,OAAO,KAAK,MAAM,85BAA0gC,CAAC;AAEjjC,IAAO,kCAAQ;AAAA,EACf,GAAG;AAAA,EACHA;AACA;;;ACLA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,ggBAAokB,CAAC;AAE3mB,IAAO,2BAAQ;AAAA,EACf,GAAG;AAAA,EACHA;AACA;;;ACJA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,6vCAA65C,CAAC;AAEp8C,IAAO,kCAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACHA;AACA;;;ACHA,IAAMC,QAAO,OAAO,OAAO,KAAK,MAAM,+3BAAu9B,CAAC;AAE9/B,IAAO,uBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACHA;AACA;",
+  "names": ["lang", "lang", "lang", "lang"]
+}

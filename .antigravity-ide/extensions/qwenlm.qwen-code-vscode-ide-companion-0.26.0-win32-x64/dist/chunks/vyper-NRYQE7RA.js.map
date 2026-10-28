@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/vyper.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,s14EAAwpnF,CAAC;AAE/rnF,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

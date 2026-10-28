@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/toml.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,q0MAAqkO,CAAC;AAE5mO,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

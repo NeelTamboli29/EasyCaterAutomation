@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/glimmer-ts.mjs"],
+  "mappings": ";;;;;;;;;;;;;;;AAKA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,o2nBAAu0sB,CAAC;AAE92sB,IAAO,qBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

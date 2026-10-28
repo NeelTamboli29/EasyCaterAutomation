@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/awk.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,szKAAu9L,CAAC;AAE9/L,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

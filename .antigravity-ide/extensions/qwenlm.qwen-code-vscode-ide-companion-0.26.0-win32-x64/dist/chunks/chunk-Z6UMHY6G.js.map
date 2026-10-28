@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/haxe.mjs"],
+  "mappings": ";AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+5kCAAi+sC,CAAC;AAExgtC,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

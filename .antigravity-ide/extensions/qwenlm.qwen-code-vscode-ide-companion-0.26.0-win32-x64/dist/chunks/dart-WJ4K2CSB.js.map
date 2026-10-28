@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/dart.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,kpPAAojR,CAAC;AAE3lR,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

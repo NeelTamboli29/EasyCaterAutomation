@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/cypher.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,8lNAAwsO,CAAC;AAE/uO,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

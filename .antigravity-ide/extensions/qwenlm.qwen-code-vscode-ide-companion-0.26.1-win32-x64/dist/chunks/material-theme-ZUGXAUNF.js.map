@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/material-theme.mjs"],
+  "mappings": ";;;AACA,IAAO,yBAAQ,OAAO,OAAO,KAAK,MAAM,6nkBAAm0nB,CAAC;",
+  "names": []
+}

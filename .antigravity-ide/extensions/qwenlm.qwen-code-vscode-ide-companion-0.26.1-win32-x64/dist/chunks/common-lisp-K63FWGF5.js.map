@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/common-lisp.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,gx3BAAqt5B,CAAC;AAE5v5B,IAAO,sBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

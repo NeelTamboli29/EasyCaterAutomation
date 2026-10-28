@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/sass.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,6nSAAqtU,CAAC;AAE5vU,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../web-shell/dist/php-DBsTw_pP.js"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;AAMA,IAAM,IAAI,OAAO,OAAO,KAAK,MAAM,iq8GAAiq8G,CAAC;AAArs8G,IAAws8G,IAAI;AAAA,EAC1s8G,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAGA;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACF;",
+  "names": ["t"]
+}

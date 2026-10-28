@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/docker.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,sqDAAg2D,CAAC;AAEv4D,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

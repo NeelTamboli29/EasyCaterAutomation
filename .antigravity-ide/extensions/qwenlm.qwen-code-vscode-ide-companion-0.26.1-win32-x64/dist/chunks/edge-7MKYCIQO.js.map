@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/edge.mjs"],
+  "mappings": ";;;;;;;;;;;;;;AAIA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,sjEAA0zE,CAAC;AAEj2E,IAAO,eAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

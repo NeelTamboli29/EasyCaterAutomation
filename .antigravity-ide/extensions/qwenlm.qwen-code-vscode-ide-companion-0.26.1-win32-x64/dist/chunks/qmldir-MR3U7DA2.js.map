@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/qmldir.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,06BAAsiC,CAAC;AAE7kC,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

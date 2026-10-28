@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/wenyan.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,s3FAAw1D,CAAC;AAE/3D,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

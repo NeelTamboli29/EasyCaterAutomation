@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/plastic.mjs"],
+  "mappings": ";;;AACA,IAAO,kBAAQ,OAAO,OAAO,KAAK,MAAM,qhSAAi+T,CAAC;",
+  "names": []
+}

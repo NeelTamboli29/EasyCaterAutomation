@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/shiki/node_modules/@shikijs/themes/dist/houston.mjs"],
+  "mappings": ";;;AACA,IAAO,kBAAQ,OAAO,OAAO,KAAK,MAAM,oilCAA8gsC,CAAC;",
+  "names": []
+}

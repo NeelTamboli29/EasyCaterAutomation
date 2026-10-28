@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/vhdl.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,wquBAA6hzB,CAAC;AAEpkzB,IAAO,eAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

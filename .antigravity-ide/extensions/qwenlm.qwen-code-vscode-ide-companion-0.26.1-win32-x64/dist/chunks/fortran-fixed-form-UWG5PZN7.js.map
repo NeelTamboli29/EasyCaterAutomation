@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/fortran-fixed-form.mjs"],
+  "mappings": ";;;;;;AAEA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,69BAA2mC,CAAC;AAElpC,IAAO,6BAAQ;AAAA,EACf,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

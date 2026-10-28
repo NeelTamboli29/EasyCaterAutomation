@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/cpp-macro.mjs", "../../../../node_modules/@shikijs/langs/dist/cpp.mjs"],
+  "mappings": ";;;;;;;;;;;AAIA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,y4nPAA2lmQ,CAAC;AAElomQ,IAAO,oBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;;;ACNA,IAAMA,QAAO,OAAO,OAAO,KAAK,MAAM,6hqbAA4s+c,CAAC;AAEnv+c,IAAO,cAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACH,GAAG;AAAA,EACHA;AACA;",
+  "names": ["lang"]
+}

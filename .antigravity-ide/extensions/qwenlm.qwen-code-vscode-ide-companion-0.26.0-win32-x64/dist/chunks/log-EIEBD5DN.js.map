@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/log.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,q1FAA8lG,CAAC;AAEroG,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

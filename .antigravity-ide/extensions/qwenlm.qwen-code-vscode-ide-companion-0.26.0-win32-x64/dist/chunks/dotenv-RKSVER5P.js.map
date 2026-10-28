@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/dotenv.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,umDAAw0D,CAAC;AAE/2D,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

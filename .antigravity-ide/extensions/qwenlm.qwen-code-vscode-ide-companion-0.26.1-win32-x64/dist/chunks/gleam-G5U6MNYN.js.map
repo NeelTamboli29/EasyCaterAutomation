@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/gleam.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,8jFAA43F,CAAC;AAEn6F,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

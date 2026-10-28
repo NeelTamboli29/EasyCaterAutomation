@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/racket.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,qz+FAAw1jG,CAAC;AAE/3jG,IAAO,iBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

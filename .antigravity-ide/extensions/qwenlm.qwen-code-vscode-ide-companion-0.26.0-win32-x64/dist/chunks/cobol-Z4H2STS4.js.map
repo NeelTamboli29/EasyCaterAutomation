@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/cobol.mjs"],
+  "mappings": ";;;;;;;;;;;AAGA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,+7uCAAulzC,CAAC;AAE9nzC,IAAO,gBAAQ;AAAA,EACf,GAAG;AAAA,EACH,GAAG;AAAA,EACH;AACA;",
+  "names": []
+}

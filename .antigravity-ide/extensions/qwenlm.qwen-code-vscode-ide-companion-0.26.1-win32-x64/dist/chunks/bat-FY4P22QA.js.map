@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/bat.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,goZAAg3b,CAAC;AAEv5b,IAAO,cAAQ;AAAA,EACf;AACA;",
+  "names": []
+}

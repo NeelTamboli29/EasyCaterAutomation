@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@shikijs/langs/dist/scala.mjs"],
+  "mappings": ";;;AAAA,IAAM,OAAO,OAAO,OAAO,KAAK,MAAM,4t7BAAqlgC,CAAC;AAE5ngC,IAAO,gBAAQ;AAAA,EACf;AACA;",
+  "names": []
+}
