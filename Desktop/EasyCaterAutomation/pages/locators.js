@@ -39,5 +39,20 @@ module.exports = {
         billSummary: '[data-testid="bill-summary"], [class*="bill" i], [class*="summary" i]',
         proceedToCheckout: '[data-testid="checkout-btn"], button:has-text("Checkout"), button:has-text("Proceed"), button:has-text("Place Order")',
         emptyMessage: 'text=/cart is empty|no items/i',
-    }
-}
+    },
+
+    checkout: {
+        addressCard: '[data-testid="address-card"], [class*="address" i]',
+        addAddressButton: 'button:has-text("Add address"), button:has-text("Add New"), button:has-text("Add Address")',
+        addressLine: 'input[placeholder*="flat" i], input[placeholder*="address" i], textarea[placeholder*="address" i]',
+        landmark: 'input[placeholder*="landmark" i]',
+        pincode: 'input[placeholder*="pin" i]',
+        saveAddress: 'button:has-text("Save")',
+        codOption: '[data-testid="pay-cod"], label:has-text("Cash on Delivery"), label:has-text("COD"), text=/cash on delivery|pay on delivery/i',
+        onlineOption: 'label:has-text("UPI"), label:has-text("Card"), label:has-text("Online")',
+        billSummary: '[data-testid="bill-summary"], [class*="bill" i], [class*="summary" i]',
+        placeOrderButton: '[data-testid="place-order"], button:has-text("Place Order"), button:has-text("Confirm Order")',
+        payButton: 'button:has-text("Pay")',
+        orderSuccess: 'text=/order (placed|confirmed|successful)|thank you/i',
+    },
+};
